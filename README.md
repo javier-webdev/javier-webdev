@@ -1,16 +1,21 @@
-## Hi there 👋
+# Javier | Web Alchemist 
 
-<!--
-**javier-webdev/javier-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+▌ **Crafting digital experiences**  
+▌ **Modern web stack enthusiast**  
+▌ **UI/UX obsessed**
 
-Here are some ideas to get you started:
+### Core Stack
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)](https://nextjs.org/)
+[![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss)](https://tailwindcss.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Supporting Cast
+```json
+{
+  "state": "Zustand",
+  "testing": "Jest",
+  "animation": "Framer Motion",
+  "deployment": "Vercel"
+}
+```
